@@ -1,7 +1,5 @@
 # SPAIC-60DaysOfUdacity-Sayali
-## Sayali's 60 days of Udacity challenge updates
-**Day 1/60 27.06.19**</br>
-*-Pledge taken*</br>
-*-Watched videos of lesson 3 and completed first project of the chapter*</br>
-*-Reading 3rd chapter of 'The algorithmic foundations of differential privacy'*</br>
-*-Reading a paper 'Principal Component Analysis*</br>
+## Sayali's 60 days of Udacity challenge updates</br>
+### I have started a Medium series for the updates of my 60 days of udacity challenge.</br>
+### You can find the link [here](https://medium.com/series/863939f9a4d0).</br>
+The Medium series can be read only on smart phones. </br>
